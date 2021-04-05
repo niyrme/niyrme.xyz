@@ -1,0 +1,26 @@
+html, body {
+	background-color: #CCC;
+	padding: 12px;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav {
+	a {
+		margin: 0px 12px 0px 0px;
+	}
+
+	.logo {
+		margin-left: 0px;
+	}
+}
+
+footer {
+	display: block;
+
+	a {
+		margin: 0px 12px 0px 0px;
+	}
+}
