@@ -1,5 +1,15 @@
+// Imports
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300;500&display=swap');
+
+// Variables
+$colMain: #2FF;
+$aMargin: 0px 22px 0px 0px;
+
 html, body {
-	background-color: #CCC;
+	background-color: #999;
+	font-family: 'Roboto Mono', monospace;
+	font-weight: 300;
 	padding: 12px;
 }
 
@@ -9,11 +19,11 @@ a {
 
 nav {
 	a {
-		margin: 0px 12px 0px 0px;
-	}
-
-	.logo {
-		margin-left: 0px;
+		color: $colMain;
+		margin: $aMargin;
+		font-family: 'Major Mono Display', monospace;
+		font-weight: bold;
+		font-size: 20px;
 	}
 }
 
@@ -21,6 +31,10 @@ footer {
 	display: block;
 
 	a {
-		margin: 0px 12px 0px 0px;
+		color: $colMain;
+		margin: $aMargin;
+		font-family: 'Roboto Mono', monospace;
+		font-weight: 500;
+		font-size: 20px;
 	}
 }
