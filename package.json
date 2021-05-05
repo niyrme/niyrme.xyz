@@ -1,6 +1,6 @@
 {
 	"name": "niyrme-website",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"private": true,
 	"scripts": {
 		"dev": "next dev",
@@ -9,13 +9,13 @@
 	},
 	"dependencies": {
 		"@netlify/plugin-nextjs": "^3.2.2",
-		"next": "10.0.5",
-		"react": "17.0.1",
-		"react-dom": "17.0.1",
+		"react": "17.0.2",
+		"react-dom": "17.0.2",
+		"next": "10.2.0",
 		"sass": "^1.32.12"
 	},
 	"devDependencies": {
-		"@types/node": "^14.14.44",
+		"@types/node": "^15.0.2",
 		"@types/react": "^17.0.5",
 		"typescript": "^4.2.4"
 	}
