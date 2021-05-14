@@ -1,0 +1,21 @@
+{
+	"name": "niyrme-website",
+	"dockerFile": "Dockerfile",
+	"settings": {
+		"terminal.integrated.shell.linux": null
+	},
+	"extensions": [
+		"aeschli.vscode-css-formatter",
+		"pranaygp.vscode-css-peek",
+		"editorconfig.editorconfig",
+		"gitlab.gitlab-workflow",
+		"eamodio.gitlens",
+		"abusaidm.html-snippets",
+		"waderyan.nodejs-extension-pack",
+		"eg2.vscode-npm-script",
+		"christian-kohler.npm-intellisense",
+		"trabpukcip.vscode-npm-scripts",
+		"christian-kohler.path-intellisense",
+		"burkeholland.simple-react-snippets"
+	]
+}
