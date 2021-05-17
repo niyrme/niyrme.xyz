@@ -16,6 +16,7 @@
 		"christian-kohler.npm-intellisense",
 		"trabpukcip.vscode-npm-scripts",
 		"christian-kohler.path-intellisense",
-		"burkeholland.simple-react-snippets"
+		"burkeholland.simple-react-snippets",
+		"waderyan.nodejs-extension-pack",
 	]
 }
