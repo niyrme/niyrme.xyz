@@ -1,0 +1,17 @@
+scss_files: "styles/**/*.scss"
+
+linters:
+  ColorVariable:
+    enabled: false
+  HexNotation:
+    enabled: false
+  Indentation:
+    character: tab
+    width: 1
+  NameFormat:
+    enabled: false
+    convetion: camel_case
+  PropertySortOrder:
+    enabled: false
+  ZeroUnit:
+    enabled: false
